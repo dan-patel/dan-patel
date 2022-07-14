@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dan-patel
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning Unity.
-- 📫 Reach me at dan.patel@icloud.com
+- I’m a game developer working primarily with Unity.
 
 <!---
 dan-patel/dan-patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
