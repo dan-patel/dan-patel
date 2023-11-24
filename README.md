@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @dan-patel
-- I’m a game developer working primarily with Unity.
+- Game Developer
+- Unity/ Unreal
 
 <!---
 dan-patel/dan-patel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
